@@ -1,0 +1,26 @@
+table {
+	background-color: #495560;
+	color: #fff;
+	width: 100%;
+	text-align: left;
+	font-size: 12px;
+	font-family: 'Open Sans' sans-serif;
+}
+
+tbody {
+	height: 100%;
+	overflow: auto;
+}
+
+tbody tr:hover {
+	background-color: #414d56;
+	cursor: pointer;
+}
+
+.circle {
+	border-radius:100px;
+	border: 2px solid #b2c045;
+	background-color: black;
+	height: 12px;
+	width: 12px;
+}
